@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Burger",
+    "description": "A juicy grilled beef burger served with lettuce, tomato, and cheese.",
+    "price": 450,
+    "category": "Main",
+    "soldOut": false
+  },
+  {
+    "id": 2,
+    "name": "Veggie Pasta",
+    "description": "Creamy pasta tossed with fresh vegetables and herbs.",
+    "price": 380,
+    "category": "Main",
+    "soldOut": false
+  },
+  {
+    "id": 3,
+    "name": "Chicken Wrap",
+    "description": "Grilled chicken wrapped with salad and spicy sauce.",
+    "price": 320,
+    "category": "Snack",
+    "soldOut": true
+  },
+  {
+    "id": 4,
+    "name": "Fruit Bowl",
+    "description": "A refreshing mix of seasonal fruit slices.",
+    "price": 240,
+    "category": "Dessert",
+    "soldOut": false
+  },
+  {
+    "id": 5,
+    "name": "Crispy Fries",
+    "description": "Golden fries served with ketchup and a hint of sea salt.",
+    "price": 200,
+    "category": "Snack",
+    "soldOut": false
+  },
+  {
+    "id": 6,
+    "name": "Mint Lemonade",
+    "description": "A cool and refreshing drink with mint and lemon.",
+    "price": 160,
+    "category": "Drink",
+    "soldOut": false
+  }
+]
